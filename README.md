@@ -1,3 +1,3 @@
-# Profiles Rest API
+# [WIP]Profiles Rest API
 
-A simple Rest API
+A simple API made with rest framework
